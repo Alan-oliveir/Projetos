@@ -34,7 +34,25 @@ Projetos envolvendo análise de dados, aprendizado de máquina e visualização.
 **Tags:** `#python`   
 **Extras:** [Demo no Streamlit](https://sentimentradarapp-6rusrx3rigukjgvsygesud.streamlit.app/), [Documentação](https://alan-oliveir.github.io/Sentiment_Radar_APP)  
 **Status:** Em desenvolvimento  
-**Tipo:** Projeto autoral
+**Tipo:** Projeto autoral  
+
+### Análise de Dados / Visualização
+
+#### [State of Data Brazil 2022](https://github.com/Alan-oliveir/state-of-data-2022)  
+**Descrição:** Análise exploratória das faixas salariais de profissionais juniores das áreas de análise, ciência e engenharia de dados com base na pesquisa State of Data Brazil 2022. O projeto utiliza Python e bibliotecas de visualização para identificar padrões salariais e distribuição de vagas.  
+**Tecnologias:** Python, Pandas, Seaborn, Google Colab  
+**Extras:** [Abrir no Google Colab](https://colab.research.google.com/github/Alan-oliveir/state-of-data-2022/blob/main/state_of_data_2022.ipynb), [Notebook no Kaggle](https://www.kaggle.com/code/alanogoncalves/state-data-brazil)  
+**Tags:** `#datascience` `#python` `#visualizacao` `#kaggle`  
+**Status:** Concluído  
+**Tipo:** Projeto autoral (análise de dados)  
+
+#### [Previsão de Compra: Cartão Fidelidade](https://github.com/Alan-oliveir/previsao_cartao_fidelidade)  
+**Descrição:** Projeto de ciência de dados desenvolvido durante as aulas da Comunidade DS, com o objetivo de prever a adesão de clientes ao programa de fidelidade de uma companhia aérea. A solução prioriza clientes com maior chance de aceitação para os cartões Star, Nova e Aurora, otimizando a abordagem comercial.  
+**Tecnologias:** Python, Pandas, Scikit-learn, Matplotlib, Google Colab  
+**Extras:** [Abrir no Google Colab](https://colab.research.google.com/github/Alan-oliveir/previsao_cartao_fidelidade/blob/main/Projeto_01.ipynb), [Screenshot](https://github.com/Alan-oliveir/previsao_cartao_fidelidade/blob/main/Imagens/screenshot.png)  
+**Tags:** `#machinelearning` `#classification` `#python` `#comunidadeds`  
+**Status:** Concluído  
+**Tipo:** Projeto de curso (formação em ciência de dados)  
 
 ## **Back-end (APIs / Sistemas)**
 
@@ -177,7 +195,23 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 **Extras:** [Screenshots no repositório](https://github.com/Alan-oliveir/AppNumeroDaSorte/tree/master/images)  
 **Tags:** `#csharp` `#mobile` `#dotnet-maui`  
 **Status:** Concluído  
-**Tipo:** Projeto acadêmico   
+**Tipo:** Projeto acadêmico  
+
+#### [CNN: Dígitos manuscritos](https://github.com/Alan-oliveir/CNN_Digitos_Manuscritos)  
+**Descrição:** Trabalho final da disciplina de Redes Neurais (2023/1), com implementação de uma rede neural convolucional para reconhecimento de dígitos manuscritos. A rede foi treinada com o dataset MNIST e testada com imagens de um dataset próprio.  
+**Tecnologias:** Python, Keras, Scikit-learn  
+**Extras:** —  
+**Tags:** `#python` `#deep-learning` `#cnn` `#mnist` `#faculdade`  
+**Status:** Concluído  
+**Tipo:** Projeto acadêmico (disciplina universitária)  
+
+#### [Aulas Práticas - Computação II](https://github.com/Alan-oliveir/Computacao_II_Aulas)  
+**Descrição:** Repositório com atividades e exercícios práticos desenvolvidos na disciplina de Computação II.  
+**Tecnologias:** C, lógica de programação, estruturas básicas  
+**Extras:** —  
+**Tags:** `#c` `#faculdade` `#estrutura-de-dados`  
+**Status:** Concluído  
+**Tipo:** Projeto acadêmico (disciplina universitária)  
 
 ---
 
@@ -197,7 +231,23 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 **Extras:** Estrutura organizada por módulos e tópicos abordados  
 **Tags:** `#devops` `#linux` `#docker` `#aws` `#iac` `#formacao`  
 **Status:** Concluído  
-**Tipo:** Repositório de curso (educacional)
+**Tipo:** Repositório de curso (educacional)  
+
+#### [Classificador de Cães e Gatos - DIO](https://github.com/Alan-oliveir/classificador-dogs-cats)  
+**Descrição:** Projeto de classificação de imagens utilizando transferência de aprendizado com o modelo MobileNet V2 pré-treinado no ImageNet. O modelo foi adaptado para identificar cães e gatos a partir de imagens, como parte da Formação Machine Learning Specialist da DIO.  
+**Tecnologias:** Python, TensorFlow, Keras, MobileNet V2, Google Colab  
+**Extras:** [Abrir no Google Colab](https://colab.research.google.com/github/Alan-oliveir/classificador-dogs-cats/blob/main/transfer_learning_dogs_cats.ipynb)  
+**Tags:** `#deeplearning` `#tensorflow` `#transferlearning` `#image-classification`  
+**Status:** Concluído  
+**Tipo:** Projeto de curso (formação em machine learning)  
+
+#### [Face Detection com OpenCV e ResNet - DIO](https://github.com/Alan-oliveir/Captura-Faces-OpenCV-ResNet)  
+**Descrição:** Sistema de detecção facial desenvolvido durante a Formação Machine Learning Specialist da DIO. Utiliza OpenCV com arquitetura ResNet para localizar a região da face em uma imagem, servindo como base para futuros sistemas de reconhecimento facial.  
+**Tecnologias:** Python, OpenCV, ResNet, Google Colab  
+**Extras:** [Abrir no Google Colab](https://colab.research.google.com/github/Alan-oliveir/Captura-Faces-OpenCV-ResNet/blob/main/Face_Detection_OpenCV_ResNet_.ipynb)  
+**Tags:** `#opencv` `#resnet` `#facedetection` `#deeplearning`  
+**Status:** Concluído  
+**Tipo:** Projeto de curso (formação em machine learning)  
 
 ---
 
