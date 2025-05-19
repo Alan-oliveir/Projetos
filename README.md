@@ -60,37 +60,37 @@ Projetos focados em back-end, como APIs REST, autenticação, sistemas de login 
 
 ### Python (Django/Flask)
 
-#### [Nome do Projeto](link_para_o_repo)
-**Descrição:**   
-**Tecnologias:**   
-**Extras:**  
-**Tags:**   
-**Status:**   
-**Tipo:**
+#### [Expert Tags - NLW Expert (Python)](https://github.com/Alan-oliveir/expert-tags)  
+**Descrição:** Projeto de geração de etiquetas com código de barras usando Python e a biblioteca `python-barcode`, com uma API feita em Flask. Desenvolvido durante a trilha Python do evento NLW Expert 2024 da Rocketseat.  
+**Tecnologias:** Python, Flask, Python-Barcode, Cerberus, Pillow, Pytest  
+**Extras:** [Código gerado](https://github.com/Alan-oliveir/expert-tags/blob/main/img/screen-02.png)  
+**Tags:** `#python` `#flask` `#barcode` `#nlw`  
+**Status:** Concluído  
+**Tipo:** Projeto de evento (NLW Rocketseat)  
 
 ### Node.js (Express)
 
-#### [Nome do Projeto](link_para_o_repo)
-**Descrição:**   
-**Tecnologias:**   
-**Extras:**  
-**Tags:**  
-**Status:**   
-**Tipo:**
+#### [Expert Polls - NLW Expert (Node.js)](https://github.com/Alan-oliveir/expert-polls)  
+**Descrição:** API para geração de enquetes em tempo real com comunicação via WebSockets. Backend desenvolvido em Node.js com Fastify, integrando PostgreSQL, Redis e Docker. Projeto da trilha Node.js do evento NLW Expert 2024 da Rocketseat.  
+**Tecnologias:** Node.js, Fastify, TypeScript, PostgreSQL, Redis, Prisma, Docker  
+**Extras:** [Hoppscotch](https://github.com/Alan-oliveir/expert-polls/blob/main/img/screen-01.png), [Prisma Studio](https://github.com/Alan-oliveir/expert-polls/blob/main/img/screen-02.png)  
+**Tags:** `#nodejs` `#nlw` `#fastify` `#websockets` `#backend`  
+**Status:** Concluído  
+**Tipo:** Projeto de evento (NLW Rocketseat)  
 
 ## **Projetos com Front-end / Full Stack**
 
 Mesmo sem foco principal em UI/UX, aqui estão projetos com interface gráfica ou front-end integrado.
 
-### React + Backend
+### React  
 
-#### [Nome do Projeto](link_para_o_repo)
-**Descrição:**   
-**Tecnologias:**   
-**Extras:**   
-**Tags:**  
-**Status:**     
-**Tipo:**
+#### [Expert Notes - NLW Expert (React)](https://github.com/Alan-oliveir/expert-notes)  
+**Descrição:** Aplicação web para salvar notas rápidas, escritas ou transcritas por voz, utilizando a Speech Recognition API. Projeto responsivo, desenvolvido com React durante a trilha React do evento NLW Expert 2024 da Rocketseat.  
+**Tecnologias:** React, Vite, Tailwind CSS, Speech Recognition API  
+**Extras:** [Screenshot 1](https://github.com/Alan-oliveir/expert-notes/blob/main/screenshot/screenshot-02.png), [Screenshot 2](https://github.com/Alan-oliveir/expert-notes/blob/main/screenshot/screenshot-03.png)  
+**Tags:** `#react` `#speechrecognition` `#nlw` `#frontend`  
+**Status:** Concluído  
+**Tipo:** Projeto de evento (NLW Rocketseat)  
 
 ### Django + HTML/Tailwind
 
@@ -128,14 +128,13 @@ Aplicativos e interfaces para dispositivos móveis.
 
 ### React Native
 
-#### [Nome do Projeto](link_para_o_repo)
-**Descrição:**   
-**Tecnologias:**   
-**Extras:**     
-**Tags:**    
-**Status:**        
-**Tipo:**   
-
+#### [Expert Foods - NLW Expert (React Native)](https://github.com/Alan-oliveir/expert-foods)  
+**Descrição:** Aplicação mobile para uma hamburgueria fictícia, com cardápio, promoções e envio de pedidos via WhatsApp. Desenvolvido com React Native e Expo durante a trilha mobile do evento NLW Expert 2024 da Rocketseat.  
+**Tecnologias:** React Native, Expo, NativeWind, Zustand, Expo Router, TypeScript  
+**Extras:** [Carrinho](https://github.com/Alan-oliveir/expert-foods/blob/master/assets/images/screenshots/screen-03.jpg)  
+**Tags:** `#reactnative` `#mobile` `#expo` `#nlw`  
+**Status:** Concluído  
+**Tipo:** Projeto de evento (NLW Rocketseat)  
 
 ## **Aplicações Desktop**
 
@@ -215,7 +214,7 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 
 ---
 
-### Cursos Online / Formações Profundas
+### Formações Online
 
 #### [Trilha Dev. Full Stack Jr. - +praTi & Codifica (2025)](https://github.com/Alan-oliveir/trilha-dev-fullstack-prati-codifica)  
 **Descrição:** Repositório completo contendo os exercícios, atividades e projetos desenvolvidos durante o curso Full Stack Jr. promovido pela +praTi e Codifica. A formação abrange desde algoritmos e estrutura de dados até desenvolvimento full stack com React, Spring Boot e Python, além de tópicos em DevOps e IA.  
@@ -233,25 +232,41 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 **Status:** Concluído  
 **Tipo:** Repositório de curso (educacional)  
 
-#### [Classificador de Cães e Gatos - DIO](https://github.com/Alan-oliveir/classificador-dogs-cats)  
-**Descrição:** Projeto de classificação de imagens utilizando transferência de aprendizado com o modelo MobileNet V2 pré-treinado no ImageNet. O modelo foi adaptado para identificar cães e gatos a partir de imagens, como parte da Formação Machine Learning Specialist da DIO.  
-**Tecnologias:** Python, TensorFlow, Keras, MobileNet V2, Google Colab  
-**Extras:** [Abrir no Google Colab](https://colab.research.google.com/github/Alan-oliveir/classificador-dogs-cats/blob/main/transfer_learning_dogs_cats.ipynb)  
-**Tags:** `#deeplearning` `#tensorflow` `#transferlearning` `#image-classification`  
-**Status:** Concluído  
-**Tipo:** Projeto de curso (formação em machine learning)  
+---
 
-#### [Face Detection com OpenCV e ResNet - DIO](https://github.com/Alan-oliveir/Captura-Faces-OpenCV-ResNet)  
-**Descrição:** Sistema de detecção facial desenvolvido durante a Formação Machine Learning Specialist da DIO. Utiliza OpenCV com arquitetura ResNet para localizar a região da face em uma imagem, servindo como base para futuros sistemas de reconhecimento facial.  
-**Tecnologias:** Python, OpenCV, ResNet, Google Colab  
-**Extras:** [Abrir no Google Colab](https://colab.research.google.com/github/Alan-oliveir/Captura-Faces-OpenCV-ResNet/blob/main/Face_Detection_OpenCV_ResNet_.ipynb)  
-**Tags:** `#opencv` `#resnet` `#facedetection` `#deeplearning`  
+### Repositórios Agregadores (Hubs de Cursos) 
+
+#### [Qualifact | Projetos de Cursos Intensivos em TICs](https://github.com/Alan-oliveir/qualifact_tics_hub)  
+**Descrição:** Repositório central que reúne os projetos desenvolvidos durante os cursos intensivos promovidos pela Qualifact, com foco em aplicações práticas de visão computacional, automação de processos e anonimização de dados.  
+**Tecnologias:** Python, OpenCV, TensorFlow, PyAutoGUI  
+**Extras:** Links para cada projeto individual no README  
+**Tags:** `#python` `#cursos` `#visao-computacional` `#lgpd` `#automacao`  
 **Status:** Concluído  
-**Tipo:** Projeto de curso (formação em machine learning)  
+**Tipo:** Repositório central de projetos de curso  
+
+#### [NLW Expert 2024 — Rocketseat (Hub)](https://github.com/Alan-oliveir/nlw-expert-2024-hub)  
+**Descrição:** Repositório central dos projetos desenvolvidos durante o evento NLW Expert 2024 da Rocketseat. A edição abordou quatro trilhas: React, React Native, Node.js e Python. Cada projeto foca em uma aplicação prática com tecnologias modernas como WebSockets, API de voz, Fastify, PostgreSQL e mais.  
+**Tecnologias:** React, React Native, Node.js, Python, Fastify, PostgreSQL, Redis  
+**Extras:** Links para os projetos individuais no README  
+**Tags:** `#nlw` `#rocketseat` `#fullstack` `#evento`  
+**Status:** Concluído  
+**Tipo:** Repositório central de projetos de evento  
 
 ---
 
 ### Bootcamps / Workshops / Eventos Intensivos  
+
+> ⚡ Veja os projetos do evento NLW Expert listados em suas respectivas stacks (React, Node.js, Python, React Native).  
+
+#### PHP  
+
+#### [Freelance Hours - PHP na Prática (Rockeseat)](https://github.com/Alan-oliveir/freelance-hours)  
+**Descrição:** Projeto desenvolvido durante o evento PHP na Prática da Rocketseat. A aplicação simula uma plataforma onde freelancers podem registrar propostas de horas para projetos, usando Laravel e Livewire. Foco em aprendizado de back-end com PHP moderno e construção de interfaces dinâmicas.  
+**Tecnologias:** PHP 8.2, Laravel 11, Livewire, Tailwind CSS  
+**Extras:** [Preview](https://github.com/Alan-oliveir/freelance-hours/blob/main/images/preview.png)  
+**Tags:** `#php` `#laravel` `#livewire` `#backend` `#rocketseat`  
+**Status:** Concluído  
+**Tipo:** Projeto de evento (Rockeseat - PHP na Prática)  
 
 #### Java / Spring Boot
 
@@ -308,6 +323,54 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 **Status:** Concluído  
 **Tipo:** Projeto de curso (evento intensivo)  
 
+---  
+
+#### Machine Learning  
+
+#### [Classificador de Cães e Gatos - DIO](https://github.com/Alan-oliveir/classificador-dogs-cats)  
+**Descrição:** Projeto de classificação de imagens utilizando transferência de aprendizado com o modelo MobileNet V2 pré-treinado no ImageNet. O modelo foi adaptado para identificar cães e gatos a partir de imagens, como parte da Formação Machine Learning Specialist da DIO.  
+**Tecnologias:** Python, TensorFlow, Keras, MobileNet V2, Google Colab  
+**Extras:** [Abrir no Google Colab](https://colab.research.google.com/github/Alan-oliveir/classificador-dogs-cats/blob/main/transfer_learning_dogs_cats.ipynb)  
+**Tags:** `#deeplearning` `#tensorflow` `#transferlearning` `#image-classification`  
+**Status:** Concluído  
+**Tipo:** Projeto de curso (formação em machine learning)  
+
+#### [Face Detection com OpenCV e ResNet - DIO](https://github.com/Alan-oliveir/Captura-Faces-OpenCV-ResNet)  
+**Descrição:** Sistema de detecção facial desenvolvido durante a Formação Machine Learning Specialist da DIO. Utiliza OpenCV com arquitetura ResNet para localizar a região da face em uma imagem, servindo como base para futuros sistemas de reconhecimento facial.  
+**Tecnologias:** Python, OpenCV, ResNet, Google Colab  
+**Extras:** [Abrir no Google Colab](https://colab.research.google.com/github/Alan-oliveir/Captura-Faces-OpenCV-ResNet/blob/main/Face_Detection_OpenCV_ResNet_.ipynb)  
+**Tags:** `#opencv` `#resnet` `#facedetection` `#deeplearning`  
+**Status:** Concluído  
+**Tipo:** Projeto de curso (formação em machine learning)  
+
+---  
+
+#### Python (Qualifact)  
+
+#### [Reconhecimento de Emoções - Qualifact](https://github.com/Alan-oliveir/reconhecimento_emocoes)  
+**Descrição:** Projeto de visão computacional desenvolvido durante curso da Qualifact. Utiliza redes neurais e bibliotecas de processamento de imagem para classificar emoções com base em imagens faciais.  
+**Tecnologias:** Python, OpenCV, TensorFlow, Pandas, Numpy  
+**Extras:** —  
+**Tags:** `#python` `#tensorflow` `#opencv` `#emotion-detection`  
+**Status:** Concluído  
+**Tipo:** Projeto de curso (formação intensiva)  
+
+#### [Automatização de Processos - Qualifact](https://github.com/Alan-oliveir/automatizacao_processos)  
+**Descrição:** Projeto desenvolvido durante o curso da Qualifact sobre automação de processos com Python. Utiliza bibliotecas como PyAutoGUI e Selenium para simular ações humanas em sistemas gráficos, preenchendo dados automaticamente em formulários e armazenando registros em arquivos CSV.  
+**Tecnologias:** Python, PyAutoGUI, Selenium  
+**Extras:** —  
+**Tags:** `#python` `#automacao` `#bot` `#pyautogui`  
+**Status:** Concluído  
+**Tipo:** Projeto de curso (formação intensiva)  
+
+#### [Anonimização de Dados - Qualifact](https://github.com/Alan-oliveir/anonimizacao_dados)  
+**Descrição:** Projeto desenvolvido no curso da Qualifact com foco na proteção de dados pessoais conforme a LGPD. A aplicação em Python implementa técnicas como mascaramento, generalização e criptografia para anonimizar registros em um banco de dados SQL Server.  
+**Tecnologias:** Python, pyODBC, SQL Server  
+**Extras:** —  
+**Tags:** `#python` `#lgpd` `#privacidade` `#anonimizacao`  
+**Status:** Concluído  
+**Tipo:** Projeto de curso (formação intensiva)  
+
 ---
 
 #### Solidity (Web3)
@@ -318,7 +381,17 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 **Extras:** [Login Screenshot](https://github.com/Alan-oliveir/CrypTwitter/blob/main/Screenshots/screen_dapp_login.png), [Timeline Screenshot](https://github.com/Alan-oliveir/CrypTwitter/blob/main/Screenshots/screen_dapp_timeline.png)  
 **Tags:** `#javascript` `#web3` `#blockchain` `#dapp`  
 **Status:** Concluído  
-**Tipo:** Projeto de curso (evento intensivo)
+**Tipo:** Projeto de curso (evento intensivo)  
+
+### IA Generativa / Produção de Conteúdo com IA  
+
+#### [Guia Prático de Segurança Online com IA - Programa Match!](https://github.com/Alan-oliveir/manual-on-security)  
+**Descrição:** Projeto final do curso de IA do Programa Match!, com foco em gerar conteúdo educativo utilizando inteligência artificial. O resultado foi um mini-manual prático sobre segurança online, abordando temas como senhas fortes, phishing, redes Wi-Fi e backup de dados.  
+**Tecnologias:** ChatGPT, Claude AI, DALL·E (IA generativa)  
+**Extras:** Capa gerada com DALL·E, conteúdo revisado com Claude  
+**Tags:** `#ia` `#chatgpt` `#conteudo` `#seguranca` `#generative-ai`  
+**Status:** Concluído  
+**Tipo:** Projeto de curso (uso de IA generativa)  
 
 ## **Pequenos Projetos / Estudos**
 
