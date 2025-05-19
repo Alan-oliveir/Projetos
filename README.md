@@ -10,7 +10,17 @@ Este documento reúne e organiza meus principais projetos públicos no GitHub, s
 - [Desenvolvimento Mobile](#desenvolvimento-mobile)
 - [Aplicações Desktop](#aplicações-desktop)
 - [Projetos de Curso / Faculdade](#projetos-de-curso--faculdade)
-- [Pequenos Projetos / Estudos](#pequenos-projetos--estudos)
+- [Pequenos Projetos / Estudos](#pequenos-projetos--estudos)  
+
+## Projetos Autorais
+
+#### [Playnite Enhanced Grid View Extend Theme](https://github.com/Alan-oliveir/Playnite_Enhanced_Grid_View_Extend_Theme)  
+**Descrição:** Tema personalizado para o launcher de jogos Playnite, com design moderno e foco em visualização em grade. O tema integra diversas extensões da comunidade para expandir funcionalidades, como exibição de conquistas, estatísticas, trailers, capturas de tela, notícias e personalização avançada.  
+**Tecnologias:** XAML, Playnite Theme System, extensões comunitárias (SuccessStory, GameActivity, HowLongToBeat, etc.)  
+**Extras:** Compatível com ThemeModifier para personalização visual, disponível via Releases ou navegador de addons do Playnite  
+**Tags:** `#playnite` `#theme` `#xaml` `#ux` `#desktop`  
+**Status:** Concluído  
+**Tipo:** Projeto autoral  
 
 ## **Machine Learning / Data Science**
 
@@ -137,7 +147,23 @@ Softwares para ambiente desktop com diferentes frameworks e bibliotecas.
 **Extras:** [Screenshot](https://github.com/Alan-oliveir/gerenciador-senhas/blob/main/assets/screenshot.png)  
 **Tags:** `#python` `#tkinter` `#sqlite` `#security` `#encryption`  
 **Status:** Concluído  
-**Tipo:** Projeto autoral
+**Tipo:** Projeto autoral  
+
+#### [YouTube Downloader APP](https://github.com/Alan-oliveir/youtube_downloader)  
+**Descrição:** Aplicação desktop para Windows que permite baixar vídeos do YouTube na melhor qualidade disponível, com visual moderno criado em customTkinter. O usuário insere a URL do vídeo, visualiza detalhes como título, thumb e canal, e baixa o arquivo diretamente para a pasta local.  
+**Tecnologias:** Python, customTkinter, Pytube  
+**Extras:** [Screenshot](https://github.com/Alan-oliveir/youtube_downloader/blob/main/images/yt-downloader-screenshot.jpg)  
+**Tags:** `#python` `#tkinter` `#desktop` `#youtube`  
+**Status:** Concluído  
+**Tipo:** Projeto autoral  
+
+#### [Inventário Doméstico](https://github.com/Alan-oliveir/Inventario_Domestico)  
+**Descrição:** Aplicação desktop para cadastro e gerenciamento de móveis e eletrodomésticos pessoais. Permite registrar nome, marca, valor, local, data de compra e foto dos itens. Possui interface moderna com customTkinter, suporte a CRUD completo e pesquisa. Desenvolvido para uso em ambiente Windows com banco de dados local.  
+**Tecnologias:** Python, customTkinter, SQLite, Pillow  
+**Extras:** [Screenshot](https://github.com/Alan-oliveir/Inventario_Domestico/blob/main/images/screenshot/inv_dom_screenshot.png)  
+**Tags:** `#python` `#tkinter` `#sqlite` `#desktop` `#inventario`  
+**Status:** Concluído  
+**Tipo:** Projeto autoral  
 
 ## **Projetos de Curso / Faculdade**
 
@@ -157,15 +183,6 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 
 ### Cursos Online / Formações Profundas
 
-#### [Formação DevOps - Ada Tech & iFood Vem Ser Tech](https://github.com/Alan-oliveir/formacao-devops-ada-ifood)  
-**Descrição:** Repositório com os exercícios, atividades e projetos realizados durante a Formação DevOps do programa Vem Ser Tech, promovida pela Ada Tech em parceria com o iFood. A formação incluiu fundamentos de Linux, redes, Git, containerização com Docker, e infraestrutura como código na AWS com CloudFormation e CI/CD.  
-**Tecnologias:** Linux, Git, Markdown, Docker, AWS (EC2, Lambda, S3, CloudFormation), YAML  
-**Extras:** Estrutura organizada por módulos e tópicos abordados  
-**Tags:** `#devops` `#linux` `#docker` `#aws` `#iac` `#formacao`  
-**Status:** Concluído  
-**Tipo:** Repositório de curso (educacional)
-
-
 #### [Trilha Dev. Full Stack Jr. - +praTi & Codifica (2025)](https://github.com/Alan-oliveir/trilha-dev-fullstack-prati-codifica)  
 **Descrição:** Repositório completo contendo os exercícios, atividades e projetos desenvolvidos durante o curso Full Stack Jr. promovido pela +praTi e Codifica. A formação abrange desde algoritmos e estrutura de dados até desenvolvimento full stack com React, Spring Boot e Python, além de tópicos em DevOps e IA.  
 **Tecnologias:** JavaScript, React, Java, Spring Boot, Python, SQL, Docker, GitHub Actions  
@@ -173,6 +190,14 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 **Tags:**`#fullstack`​`#educacional`​`#curso`​`#react`​`#springboot`​`#python`  
 **Status:** Em andamento (Abril a Dezembro 2025)  
 **Tipo:** Repositório de curso (educacional)  
+
+#### [Formação DevOps - Ada Tech & iFood Vem Ser Tech](https://github.com/Alan-oliveir/formacao-devops-ada-ifood)  
+**Descrição:** Repositório com os exercícios, atividades e projetos realizados durante a Formação DevOps do programa Vem Ser Tech, promovida pela Ada Tech em parceria com o iFood. A formação incluiu fundamentos de Linux, redes, Git, containerização com Docker, e infraestrutura como código na AWS com CloudFormation e CI/CD.  
+**Tecnologias:** Linux, Git, Markdown, Docker, AWS (EC2, Lambda, S3, CloudFormation), YAML  
+**Extras:** Estrutura organizada por módulos e tópicos abordados  
+**Tags:** `#devops` `#linux` `#docker` `#aws` `#iac` `#formacao`  
+**Status:** Concluído  
+**Tipo:** Repositório de curso (educacional)
 
 ---
 
@@ -196,9 +221,26 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 **Status:** Concluído  
 **Tipo:** Projeto de curso (evento intensivo)  
 
+#### [API de Usuários e Departamentos - DevSuperior](https://github.com/Alan-oliveir/userdept)  
+**Descrição:** Projeto desenvolvido durante aula da DevSuperior, com o objetivo de criar uma API REST para cadastro e consulta de usuários e departamentos. Utiliza Spring Boot, JPA para mapeamento objeto-relacional e banco H2 em memória para persistência.  
+**Tecnologias:** Java, Spring Boot, Spring Data JPA, Maven, Banco H2  
+**Extras:** [Modelo de domínio](https://github.com/Alan-oliveir/userdept/blob/main/images/dominio.png), [Mapeamento ORM](https://github.com/Alan-oliveir/userdept/blob/main/images/objetos.png)  
+**Tags:** `#java` `#springboot` `#restapi`  
+**Status:** Concluído  
+**Tipo:** Projeto de curso (aula prática)  
+
 ---  
 
 #### HTML / CSS / JavaScript
+
+#### [SOS RS - Hackathon Recode Pro AI](https://github.com/Alan-oliveir/Hackthon-Recode)  
+**Descrição:** Página web criada em equipe durante o Hackathon da Recode Pro, com o objetivo de oferecer apoio informativo e operacional para situações de enchentes no Rio Grande do Sul. A aplicação inclui cadastro de voluntários, links úteis e contatos de emergência.  
+**Tecnologias:** HTML, CSS, JavaScript  
+**Extras:** [Site publicado](https://alan-oliveir.github.io/Hackthon-Recode), [Screenshot](https://github.com/Alan-oliveir/Hackthon-Recode/blob/main/Imagens/screenshot.png),
+[Pitch](https://youtu.be/F7T69cWQ3ag), [Apresentação](https://youtu.be/o1pET8YKsAE)    
+**Tags:** `#hackathon` `#frontend` `#html` `#javascript` `#colaborativo`  
+**Status:** Concluído  
+**Tipo:** Projeto colaborativo (evento intensivo)
 
 #### [Conversor de Moedas - Imersão Dev Alura](https://github.com/Alan-oliveir/conversor_moeda)  
 **Descrição:** Projeto criado durante a 7ª Imersão Dev da Alura, com foco em fundamentos de programação JavaScript. A aplicação permite converter valores monetários com arredondamento e exibição direta na página. Exercício prático voltado à fixação de conceitos como variáveis, operadores e interação com o DOM.  
@@ -216,18 +258,41 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 **Status:** Concluído  
 **Tipo:** Projeto de curso (evento intensivo)  
 
+---
+
+#### Solidity (Web3)
+
+#### [CrypTwitter - Web3 Week](https://github.com/Alan-oliveir/CrypTwitter)  
+**Descrição:** Aplicação descentralizada desenvolvida durante a Web3 Week. O projeto simula um mini-twitter com tecnologias da Web3, incluindo conceitos de blockchain, contratos inteligentes e front-end descentralizado. Foco no aprendizado prático sobre estrutura e funcionamento de aplicações web descentralizadas.  
+**Tecnologias:** JavaScript, HTML, CSS, Solidity (Web3)  
+**Extras:** [Login Screenshot](https://github.com/Alan-oliveir/CrypTwitter/blob/main/Screenshots/screen_dapp_login.png), [Timeline Screenshot](https://github.com/Alan-oliveir/CrypTwitter/blob/main/Screenshots/screen_dapp_timeline.png)  
+**Tags:** `#javascript` `#web3` `#blockchain` `#dapp`  
+**Status:** Concluído  
+**Tipo:** Projeto de curso (evento intensivo)
+
 ## **Pequenos Projetos / Estudos**
 
 Repositórios menores com foco em testar bibliotecas, resolver desafios ou estudar conceitos específicos.
 
 ### Experimentos e Desafios
 
-#### [Nome do Projeto](link_para_o_repo)
-**Descrição:**   
-**Tecnologias:**   
-**Tags:**  
-**Status:**     
-**Tipo:** 
+#### [Buscar CEP](https://github.com/Alan-oliveir/Buscar_CEP)  
+**Descrição:** Projeto simples e experimental para aprender a criar aplicações desktop com interface gráfica usando customTkinter e consumir APIs com Python. Utiliza a API ViaCEP para retornar o CEP a partir de dados de endereço. Também foi usado `auto-py-to-exe` para geração do executável Windows.  
+**Tecnologias:** Python, customTkinter, Requests, API ViaCEP  
+**Extras:** [Screenshot](https://github.com/Alan-oliveir/Buscar_CEP/blob/main/test_images/Buscar_cep_screenshot.jpg)  
+**Tags:** `#python` `#tkinter` `#api` `#viacep` `#study`  
+**Status:** Concluído  
+**Tipo:** Projeto experimental (foco em aprendizado de interface + API)  
+
+#### [Buscar Endereço](https://github.com/Alan-oliveir/Buscar_END)  
+**Descrição:** Projeto experimental com foco em aprendizado de consumo de API e construção de GUI com Python. A aplicação retorna o endereço correspondente a um CEP válido informado pelo usuário, utilizando a API ViaCEP e interface com customTkinter.  
+**Tecnologias:** Python, customTkinter, Requests, API ViaCEP  
+**Extras:** [Screenshot](https://github.com/Alan-oliveir/Buscar_END/blob/main/test_images/Buscar_end_screenshot.jpg)  
+**Tags:** `#python` `#tkinter` `#api` `#viacep` `#study`  
+**Status:** Concluído  
+**Tipo:** Projeto experimental (foco em aprendizado de interface + API)  
+
+---  
 
 ### Tutoriais e Estudos de Caso
 
