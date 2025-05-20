@@ -82,6 +82,26 @@ Projetos focados em back-end, como APIs REST, autenticação, sistemas de login 
 
 Mesmo sem foco principal em UI/UX, aqui estão projetos com interface gráfica ou front-end integrado.
 
+### HTML/Tailwind + Django
+
+#### [Mentorandos App](https://github.com/Alan-oliveir/mentorandos-app)  
+**Descrição:** Aplicação web full stack para gestão de mentorias, com funcionalidades como cadastro de usuários, gerenciamento de mentorados, agendamento de reuniões, upload de vídeos e controle de tarefas. Baseado em conteúdo educacional, mas expandido com melhorias e novas funcionalidades.  
+**Tecnologias:** Python, Django 5.2, TailwindCSS, SQLite, HTMX, Chart.js  
+**Extras:** [Screenshot](https://github.com/Alan-oliveir/mentorandos-app/blob/master/screenshot/screen-mentorandos.png)  
+**Tags:** `#django` `#python` `#fullstack`  
+**Status:** Em desenvolvimento  
+**Tipo:** Projeto de curso adaptado   
+
+### JavaScript Puro + Express  
+
+#### [MyMovies 🎬](https://github.com/Alan-oliveir/MyMovies)  
+**Descrição:** Aplicação web para busca, visualização e organização de filmes usando a OMDB API. Permite pesquisar títulos, exibir detalhes e salvar favoritos. Projeto inspirado em curso, mas com melhorias implementadas como Express, SweetAlert2 e deploy com Vercel.  
+**Tecnologias:** Node.js, Express, JavaScript, OMDB API, dotenv, SweetAlert2  
+**Extras:** [Deploy](https://vercel.live/link/my-movies-green.vercel.app?via=team-dashboard-project-entity&p=1&page=/), [Screenshot](https://github.com/Alan-oliveir/MyMovies/blob/main/public/images/screenshot.png)  
+**Tags:** `#nodejs` `#express` `#api` `#javascript` `#vercel`  
+**Status:** Concluído  
+**Tipo:** Projeto de curso adaptado  
+
 ### React  
 
 #### [Expert Notes - NLW Expert (React)](https://github.com/Alan-oliveir/expert-notes)  
@@ -91,16 +111,6 @@ Mesmo sem foco principal em UI/UX, aqui estão projetos com interface gráfica o
 **Tags:** `#react` `#speechrecognition` `#nlw` `#frontend`  
 **Status:** Concluído  
 **Tipo:** Projeto de evento (NLW Rocketseat)  
-
-### Django + HTML/Tailwind
-
-#### [Mentorandos App](https://github.com/Alan-oliveir/mentorandos-app)  
-**Descrição:** Aplicação web full stack para gestão de mentorias, com funcionalidades como cadastro de usuários, gerenciamento de mentorados, agendamento de reuniões, upload de vídeos e controle de tarefas. Baseado em conteúdo educacional, mas expandido com melhorias e novas funcionalidades.  
-**Tecnologias:** Python, Django 5.2, TailwindCSS, SQLite, HTMX, Chart.js  
-**Extras:** [Screenshot](https://github.com/Alan-oliveir/mentorandos-app/blob/master/screenshot/screen-mentorandos.png)  
-**Tags:** `#django` `#python` `#fullstack`  
-**Status:** Em desenvolvimento  
-**Tipo:** Projeto de curso adaptado  
 
 ---  
 
@@ -120,7 +130,15 @@ Mesmo sem foco principal em UI/UX, aqui estão projetos com interface gráfica o
 **Extras:** [Site publicado](https://alan-oliveir.github.io/Maratona_Estrelas/), [Screenshot](https://github.com/Alan-oliveir/Maratona_Estrelas/blob/main/images/screenshot.jpg)  
 **Tags:** `#javascript` `#frontend` `#evento`  
 **Status:** Concluído  
-**Tipo:** Projeto autoral (baseado em evento educacional)
+**Tipo:** Projeto autoral (baseado em evento educacional)  
+
+#### [APP Sorteio - Maratona Kenzie](https://github.com/Alan-oliveir/APP_Sorteio)  
+**Descrição:** Aplicativo web para sorteio de nomes a partir de uma lista de candidatos, criado durante a Maratona App Sorteio da Kenzie Academy. Projeto simples e funcional com HTML, CSS e JavaScript, voltado ao aprendizado de lógica e manipulação de DOM.  
+**Tecnologias:** HTML5, CSS3, JavaScript  
+**Extras:** [Site publicado](https://alan-oliveir.github.io/APP_Sorteio/), [Screenshot](https://github.com/Alan-oliveir/APP_Sorteio/blob/main/assets/images/screenshots/screen.png)  
+**Tags:** `#javascript` `#frontend` `#evento`  
+**Status:** Concluído  
+**Tipo:** Projeto autoral (baseado em evento educacional)  
 
 ## **Desenvolvimento Mobile**
 
@@ -166,13 +184,21 @@ Softwares para ambiente desktop com diferentes frameworks e bibliotecas.
 **Status:** Concluído  
 **Tipo:** Projeto autoral  
 
+#### [Orçamento Pessoal](https://github.com/Alan-oliveir/Orcamento_Pessoal)  
+**Descrição:** Aplicativo desktop para controle de receitas e despesas pessoais. Permite cadastro de movimentações financeiras com data, tipo e valor, além de exibir gráficos com resumo mensal. Interface gráfica com Tkinter e visualização com Matplotlib.  
+**Tecnologias:** Python, Tkinter, SQLite, Matplotlib, Pandas, Pillow  
+**Extras:** [Screenshot](https://github.com/Alan-oliveir/Orcamento_Pessoal/blob/main/images/screenshot/screen.png)  
+**Tags:** `#python` `#tkinter` `#sqlite` `#finanças` `#gráficos`  
+**Status:** Concluído  
+**Tipo:** Projeto autoral (baseado em tutoriais com melhorias)    
+
 #### [YouTube Downloader APP](https://github.com/Alan-oliveir/youtube_downloader)  
 **Descrição:** Aplicação desktop para Windows que permite baixar vídeos do YouTube na melhor qualidade disponível, com visual moderno criado em customTkinter. O usuário insere a URL do vídeo, visualiza detalhes como título, thumb e canal, e baixa o arquivo diretamente para a pasta local.  
 **Tecnologias:** Python, customTkinter, Pytube  
 **Extras:** [Screenshot](https://github.com/Alan-oliveir/youtube_downloader/blob/main/images/yt-downloader-screenshot.jpg)  
 **Tags:** `#python` `#tkinter` `#desktop` `#youtube`  
 **Status:** Concluído  
-**Tipo:** Projeto autoral  
+**Tipo:** Projeto autoral     
 
 #### [Inventário Doméstico](https://github.com/Alan-oliveir/Inventario_Domestico)  
 **Descrição:** Aplicação desktop para cadastro e gerenciamento de móveis e eletrodomésticos pessoais. Permite registrar nome, marca, valor, local, data de compra e foto dos itens. Possui interface moderna com customTkinter, suporte a CRUD completo e pesquisa. Desenvolvido para uso em ambiente Windows com banco de dados local.  
@@ -180,13 +206,21 @@ Softwares para ambiente desktop com diferentes frameworks e bibliotecas.
 **Extras:** [Screenshot](https://github.com/Alan-oliveir/Inventario_Domestico/blob/main/images/screenshot/inv_dom_screenshot.png)  
 **Tags:** `#python` `#tkinter` `#sqlite` `#desktop` `#inventario`  
 **Status:** Concluído  
-**Tipo:** Projeto autoral  
+**Tipo:** Projeto autoral (baseado em tutoriais com melhorias)  
 
 ## **Projetos de Curso / Faculdade**
 
 Projetos desenvolvidos durante disciplinas ou treinamentos.
 
 ### Disciplinas Acadêmicas
+
+#### [PhotoSpice](https://github.com/Alan-oliveir/PhotoSpice)  
+**Descrição:** Aplicação web desenvolvida como projeto final da disciplina Projeto Integrado (DEL/UFRJ), que permite ao usuário capturar um circuito esquemático por imagem, gerar a netlist no padrão SPICE e simular o circuito com visualização dos resultados.  
+**Tecnologias:** Python, Flask, PyTorch, PySpice, OpenCV, Vue.js, YOLO, Matplotlib  
+**Extras:** [Vídeo de demonstração](https://youtu.be/VwTYSiOtutM)  
+**Tags:** `#engenharia-eletronica` `#redes-neurais` `#visao-computacional` `#spice` `#flask` `#vuejs`  
+**Status:** Concluído  
+**Tipo:** Projeto acadêmico  
 
 #### [Número da Sorte](https://github.com/Alan-oliveir/AppNumeroDaSorte)  
 **Descrição:** Aplicativo móvel para geração de números aleatórios, desenvolvido como parte da disciplina *Software para Smartphone* no curso de Engenharia Eletrônica e de Computação da UFRJ. Permite gerar números entre 0 e 60 para sorteios e jogos.  
@@ -236,14 +270,6 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 
 ### Repositórios Agregadores (Hubs de Cursos) 
 
-#### [Qualifact | Projetos de Cursos Intensivos em TICs](https://github.com/Alan-oliveir/qualifact_tics_hub)  
-**Descrição:** Repositório central que reúne os projetos desenvolvidos durante os cursos intensivos promovidos pela Qualifact, com foco em aplicações práticas de visão computacional, automação de processos e anonimização de dados.  
-**Tecnologias:** Python, OpenCV, TensorFlow, PyAutoGUI  
-**Extras:** Links para cada projeto individual no README  
-**Tags:** `#python` `#cursos` `#visao-computacional` `#lgpd` `#automacao`  
-**Status:** Concluído  
-**Tipo:** Repositório central de projetos de curso  
-
 #### [NLW Expert 2024 — Rocketseat (Hub)](https://github.com/Alan-oliveir/nlw-expert-2024-hub)  
 **Descrição:** Repositório central dos projetos desenvolvidos durante o evento NLW Expert 2024 da Rocketseat. A edição abordou quatro trilhas: React, React Native, Node.js e Python. Cada projeto foca em uma aplicação prática com tecnologias modernas como WebSockets, API de voz, Fastify, PostgreSQL e mais.  
 **Tecnologias:** React, React Native, Node.js, Python, Fastify, PostgreSQL, Redis  
@@ -252,9 +278,38 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 **Status:** Concluído  
 **Tipo:** Repositório central de projetos de evento  
 
+#### [Bootcamp Potência Tech iFood — Desenvolvimento de Jogos (DIO)](https://github.com/Alan-oliveir/bootcamp-dio-jogos-hub)  
+**Descrição:** Repositório central com os projetos desenvolvidos durante o Bootcamp Potência Tech iFood - Desenvolvimento de Jogos, promovido pela DIO. Inclui jogos web simples desenvolvidos com HTML5, CSS3 e JavaScript, com foco em lógica, manipulação de DOM e interatividade.  
+**Tecnologias:** HTML, CSS, JavaScript  
+**Extras:** Links para todos os jogos: Jogo da Memória, Simulador de Piano, Pokédex, Yu-Gi-Oh! Jokenpô e Detona Ralph  
+**Tags:** `#dio` `#jogos` `#html` `#javascript` `#bootcamp`  
+**Status:** Concluído  
+**Tipo:** Repositório central de projetos de bootcamp
+
+#### [Qualifact | Projetos de Cursos Intensivos em TICs](https://github.com/Alan-oliveir/qualifact_tics_hub)  
+**Descrição:** Repositório central que reúne os projetos desenvolvidos durante os cursos intensivos promovidos pela Qualifact, com foco em aplicações práticas de visão computacional, automação de processos e anonimização de dados.  
+**Tecnologias:** Python, OpenCV, TensorFlow, PyAutoGUI  
+**Extras:** Links para cada projeto individual no README  
+**Tags:** `#python` `#cursos` `#visao-computacional` `#lgpd` `#automacao`  
+**Status:** Concluído  
+**Tipo:** Repositório central de projetos de curso  
+
 ---
 
-### Bootcamps / Workshops / Eventos Intensivos  
+### Hackathons  
+
+#### HTML / CSS / JavaScript
+
+#### [SOS RS - Hackathon Recode Pro AI](https://github.com/Alan-oliveir/Hackthon-Recode)  
+**Descrição:** Página web criada em equipe durante o Hackathon da Recode Pro, com o objetivo de oferecer apoio informativo e operacional para situações de enchentes no Rio Grande do Sul. A aplicação inclui cadastro de voluntários, links úteis e contatos de emergência.  
+**Tecnologias:** HTML, CSS, JavaScript  
+**Extras:** [Site publicado](https://alan-oliveir.github.io/Hackthon-Recode), [Screenshot](https://github.com/Alan-oliveir/Hackthon-Recode/blob/main/Imagens/screenshot.png),
+[Pitch](https://youtu.be/F7T69cWQ3ag), [Apresentação](https://youtu.be/o1pET8YKsAE)    
+**Tags:** `#hackathon` `#frontend` `#html` `#javascript` `#colaborativo`  
+**Status:** Concluído  
+**Tipo:** Projeto colaborativo (evento intensivo)   
+
+### Bootcamps / Eventos Intensivos  
 
 > ⚡ Veja os projetos do evento NLW Expert listados em suas respectivas stacks (React, Node.js, Python, React Native).  
 
@@ -268,7 +323,25 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 **Status:** Concluído  
 **Tipo:** Projeto de evento (Rockeseat - PHP na Prática)  
 
-#### Java / Spring Boot
+#### React  
+
+#### [Smart Doc IA](https://github.com/Alan-oliveir/smart_doc_IA)  
+**Descrição:** Aplicação web que atua como assistente de carreira inteligente, utilizando a API do ChatGPT 3.5 para gerar roadmaps personalizados com tecnologias atualizadas. Desenvolvido durante uma aula prática na DIO.  
+**Tecnologias:** ReactJS, TailwindCSS, API ChatGPT (OpenAI)  
+**Extras:** [Aula no YouTube](https://www.youtube.com/watch?v=v2k2ciLhlLI), [Screenshot 1](https://github.com/Alan-oliveir/smart_doc_IA/blob/main/screenshots/smart_doc_img_01.png), [Screenshot 2](https://github.com/Alan-oliveir/smart_doc_IA/blob/main/screenshots/smart_doc_img_02.png)  
+**Tags:** `#react` `#chatgpt` `#tailwind` `#webapp` `#dio`  
+**Status:** Concluído  
+**Tipo:** Projeto de curso  
+
+#### Java / Spring Boot  
+
+#### [Pass.in](https://github.com/Alan-oliveir/pass.in)  
+**Descrição:** Sistema para gestão de eventos presenciais com cadastro de participantes, emissão de credenciais e check-in com QR code. Desenvolvido durante o evento NLW Unite (trilha Java) da Rocketseat.  
+**Tecnologias:** Java (OpenJDK), Spring Framework  
+**Extras:** [Screenshot](https://github.com/Alan-oliveir/pass.in/blob/main/images/pass-in_img.png)  
+**Tags:** `#java` `#eventos` `#spring` `#nlw`  
+**Status:** Concluído  
+**Tipo:** Projeto de curso (NLW Unite – Rocketseat)
 
 #### [API de Log - Mergulho Spring REST](https://github.com/Alan-oliveir/log-api)  
 **Descrição:** Projeto construído durante o curso **Mergulho Spring REST** da AlgaWorks. Trata-se de uma API REST para cadastro de clientes e finalização de entregas, com implementação completa de operações CRUD, tratamento de exceções, validação de dados e versionamento de banco com Flyway.  
@@ -298,14 +371,45 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 
 #### HTML / CSS / JavaScript
 
-#### [SOS RS - Hackathon Recode Pro AI](https://github.com/Alan-oliveir/Hackthon-Recode)  
-**Descrição:** Página web criada em equipe durante o Hackathon da Recode Pro, com o objetivo de oferecer apoio informativo e operacional para situações de enchentes no Rio Grande do Sul. A aplicação inclui cadastro de voluntários, links úteis e contatos de emergência.  
-**Tecnologias:** HTML, CSS, JavaScript  
-**Extras:** [Site publicado](https://alan-oliveir.github.io/Hackthon-Recode), [Screenshot](https://github.com/Alan-oliveir/Hackthon-Recode/blob/main/Imagens/screenshot.png),
-[Pitch](https://youtu.be/F7T69cWQ3ag), [Apresentação](https://youtu.be/o1pET8YKsAE)    
-**Tags:** `#hackathon` `#frontend` `#html` `#javascript` `#colaborativo`  
+#### [Jogo do Número Secreto](https://github.com/Alan-oliveir/numero-secreto)  
+**Descrição:** Jogo simples onde o jogador deve adivinhar um número aleatório, com feedback visual e sonoro. Utiliza a API de texto para fala (ResponsiveVoice) para maior acessibilidade. Desenvolvido no programa ONE (Oracle Next Education) com Alura.  
+**Tecnologias:** HTML, CSS, JavaScript, ResponsiveVoice API  
+**Extras:** [Deploy](https://jogo-lime-six.vercel.app/), [Screenshot](https://github.com/Alan-oliveir/jogo_numero_secreto/blob/main/screenshot/screen-numero-secreto.png)  
+**Tags:** `#javascript` `#acessibilidade` `#html` `#bootcamp`  
 **Status:** Concluído  
-**Tipo:** Projeto colaborativo (evento intensivo)
+**Tipo:** Projeto de curso (ONE + Alura)  
+
+#### [Yu-Gi-Oh! Jokenpô](https://github.com/Alan-oliveir/Yu-Gi-Oh_card_game)  
+**Descrição:** Jogo do Jo-ken-pô com cartas temáticas do universo Yu-Gi-Oh!. Desenvolvido para praticar lógica, manipulação de estado e organização de código. Projeto feito durante o Bootcamp Potência Tech iFood da DIO.  
+**Tecnologias:** HTML, CSS, JavaScript  
+**Extras:** [Deploy](https://alan-oliveir.github.io/Yu-Gi-Oh_card_game/), [Screenshot](https://github.com/Alan-oliveir/Yu-Gi-Oh_card_game/blob/main/screenshots/screenshoot.png)  
+**Tags:** `#javascript` `#jogo` `#yu-gi-oh` `#bootcamp`  
+**Status:** Concluído  
+**Tipo:** Projeto de bootcamp (jogo temático)  
+
+#### [Jogo da Memória com Emojis](https://github.com/Alan-oliveir/jogo_memoria_emojis)  
+**Descrição:** Jogo da memória simples com emojis como ilustrações. Criado para praticar lógica condicional, manipulação de DOM e interatividade com JavaScript. Projeto desenvolvido durante o Bootcamp Potência Tech iFood - Desenvolvimento de Jogos da DIO.  
+**Tecnologias:** HTML, CSS, JavaScript  
+**Extras:** [Deploy](https://alan-oliveir.github.io/jogo_memoria_emojis/), [Screenshot](https://github.com/Alan-oliveir/jogo_memoria_emojis/blob/main/images/memory_game_screen.png)  
+**Tags:** `#javascript` `#html` `#jogo` `#bootcamp`  
+**Status:** Concluído  
+**Tipo:** Projeto de bootcamp (jogo interativo)
+
+#### [Simulador de Piano](https://github.com/Alan-oliveir/simulador_piano)  
+**Descrição:** Teclado musical virtual criado com HTML, CSS e JavaScript. O usuário pode tocar notas com o teclado físico ou mouse. Projeto voltado ao uso de eventos de interação e manipulação de áudio, feito durante o bootcamp da DIO.  
+**Tecnologias:** HTML, CSS, JavaScript  
+**Extras:** [Deploy](https://alan-oliveir.github.io/simulador_piano/), [Screenshot](https://github.com/Alan-oliveir/simulador_piano/blob/main/images/piano_screen.png)  
+**Tags:** `#javascript` `#html` `#piano` `#bootcamp`  
+**Status:** Concluído  
+**Tipo:** Projeto de bootcamp (simulador interativo)  
+
+#### [Pokédex](https://github.com/Alan-oliveir/Pokedex)  
+**Descrição:** Aplicação web para exibir informações de Pokémons. Desenvolvida com HTML, CSS e JavaScript para praticar consumo de APIs, DOM e responsividade. Projeto do curso “Páginas WEB Dinâmicas com JS” no Bootcamp Potência Tech iFood.  
+**Tecnologias:** HTML, CSS, JavaScript  
+**Extras:** [Deploy](https://alan-oliveir.github.io/Pokedex/), [Screenshot](https://github.com/Alan-oliveir/Pokedex/blob/main/screenshot/screenshot.png)  
+**Tags:** `#javascript` `#api` `#pokedex` `#bootcamp`  
+**Status:** Concluído  
+**Tipo:** Projeto de bootcamp (página interativa)  
 
 #### [Conversor de Moedas - Imersão Dev Alura](https://github.com/Alan-oliveir/conversor_moeda)  
 **Descrição:** Projeto criado durante a 7ª Imersão Dev da Alura, com foco em fundamentos de programação JavaScript. A aplicação permite converter valores monetários com arredondamento e exibição direta na página. Exercício prático voltado à fixação de conceitos como variáveis, operadores e interação com o DOM.  
@@ -315,35 +419,7 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 **Status:** Concluído  
 **Tipo:** Projeto de curso (evento intensivo)  
 
-#### [APP Sorteio - Maratona Kenzie](https://github.com/Alan-oliveir/APP_Sorteio)  
-**Descrição:** Aplicativo web para sorteio de nomes a partir de uma lista de candidatos, criado durante a Maratona App Sorteio da Kenzie Academy. Projeto simples e funcional com HTML, CSS e JavaScript, voltado ao aprendizado de lógica e manipulação de DOM.  
-**Tecnologias:** HTML5, CSS3, JavaScript  
-**Extras:** [Site publicado](https://alan-oliveir.github.io/APP_Sorteio/), [Screenshot](https://github.com/Alan-oliveir/APP_Sorteio/blob/main/assets/images/screenshots/screen.png)  
-**Tags:** `#javascript` `#frontend` `#evento`  
-**Status:** Concluído  
-**Tipo:** Projeto de curso (evento intensivo)  
-
----  
-
-#### Machine Learning  
-
-#### [Classificador de Cães e Gatos - DIO](https://github.com/Alan-oliveir/classificador-dogs-cats)  
-**Descrição:** Projeto de classificação de imagens utilizando transferência de aprendizado com o modelo MobileNet V2 pré-treinado no ImageNet. O modelo foi adaptado para identificar cães e gatos a partir de imagens, como parte da Formação Machine Learning Specialist da DIO.  
-**Tecnologias:** Python, TensorFlow, Keras, MobileNet V2, Google Colab  
-**Extras:** [Abrir no Google Colab](https://colab.research.google.com/github/Alan-oliveir/classificador-dogs-cats/blob/main/transfer_learning_dogs_cats.ipynb)  
-**Tags:** `#deeplearning` `#tensorflow` `#transferlearning` `#image-classification`  
-**Status:** Concluído  
-**Tipo:** Projeto de curso (formação em machine learning)  
-
-#### [Face Detection com OpenCV e ResNet - DIO](https://github.com/Alan-oliveir/Captura-Faces-OpenCV-ResNet)  
-**Descrição:** Sistema de detecção facial desenvolvido durante a Formação Machine Learning Specialist da DIO. Utiliza OpenCV com arquitetura ResNet para localizar a região da face em uma imagem, servindo como base para futuros sistemas de reconhecimento facial.  
-**Tecnologias:** Python, OpenCV, ResNet, Google Colab  
-**Extras:** [Abrir no Google Colab](https://colab.research.google.com/github/Alan-oliveir/Captura-Faces-OpenCV-ResNet/blob/main/Face_Detection_OpenCV_ResNet_.ipynb)  
-**Tags:** `#opencv` `#resnet` `#facedetection` `#deeplearning`  
-**Status:** Concluído  
-**Tipo:** Projeto de curso (formação em machine learning)  
-
----  
+---   
 
 #### Python (Qualifact)  
 
@@ -371,7 +447,7 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 **Status:** Concluído  
 **Tipo:** Projeto de curso (formação intensiva)  
 
----
+---  
 
 #### Solidity (Web3)
 
@@ -383,6 +459,26 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 **Status:** Concluído  
 **Tipo:** Projeto de curso (evento intensivo)  
 
+---  
+
+### Machine Learning  
+
+#### [Classificador de Cães e Gatos - DIO](https://github.com/Alan-oliveir/classificador-dogs-cats)  
+**Descrição:** Projeto de classificação de imagens utilizando transferência de aprendizado com o modelo MobileNet V2 pré-treinado no ImageNet. O modelo foi adaptado para identificar cães e gatos a partir de imagens, como parte da Formação Machine Learning Specialist da DIO.  
+**Tecnologias:** Python, TensorFlow, Keras, MobileNet V2, Google Colab  
+**Extras:** [Abrir no Google Colab](https://colab.research.google.com/github/Alan-oliveir/classificador-dogs-cats/blob/main/transfer_learning_dogs_cats.ipynb)  
+**Tags:** `#deeplearning` `#tensorflow` `#transferlearning` `#image-classification`  
+**Status:** Concluído  
+**Tipo:** Projeto de curso (formação em machine learning)  
+
+#### [Face Detection com OpenCV e ResNet - DIO](https://github.com/Alan-oliveir/Captura-Faces-OpenCV-ResNet)  
+**Descrição:** Sistema de detecção facial desenvolvido durante a Formação Machine Learning Specialist da DIO. Utiliza OpenCV com arquitetura ResNet para localizar a região da face em uma imagem, servindo como base para futuros sistemas de reconhecimento facial.  
+**Tecnologias:** Python, OpenCV, ResNet, Google Colab  
+**Extras:** [Abrir no Google Colab](https://colab.research.google.com/github/Alan-oliveir/Captura-Faces-OpenCV-ResNet/blob/main/Face_Detection_OpenCV_ResNet_.ipynb)  
+**Tags:** `#opencv` `#resnet` `#facedetection` `#deeplearning`  
+**Status:** Concluído  
+**Tipo:** Projeto de curso (formação em machine learning) 
+
 ### IA Generativa / Produção de Conteúdo com IA  
 
 #### [Guia Prático de Segurança Online com IA - Programa Match!](https://github.com/Alan-oliveir/manual-on-security)  
@@ -393,9 +489,37 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 **Status:** Concluído  
 **Tipo:** Projeto de curso (uso de IA generativa)  
 
+#### [Imersão IA - Alura & Google](https://github.com/Alan-oliveir/imersao-ia-gemini)  
+**Descrição:** Registro da participação na Imersão IA promovida pela Alura em parceria com o Google. Durante o evento, foram exploradas aplicações da IA generativa no Google AI Studio, com destaque para o uso prático da Gemini API e criação de projetos com prompts inteligentes.  
+**Tecnologias:** Google Gemini, IA generativa, Google AI Studio  
+**Extras:** [Sobre o Gemini](https://blog.google/intl/pt-br/novidades/tecnologia/apresentando-o-gemini-nosso-maior-e-mais-habil-modelo-de-ia/), [Exemplos de Prompt](https://ai.google.dev/examples?hl=pt-br)  
+**Tags:** `#ia` `#gemini` `#google` `#alura` `#imersao`  
+**Status:** Concluído  
+**Tipo:** Participação em curso (imersão teórica e prática com IA generativa)
+
 ## **Pequenos Projetos / Estudos**
 
-Repositórios menores com foco em testar bibliotecas, resolver desafios ou estudar conceitos específicos.
+Repositórios menores com foco em testar bibliotecas, resolver desafios ou estudar conceitos específicos.  
+
+### Programação Assistida por IA (Programa Match!)
+
+Projetos simples desenvolvidos com auxílio de ferramentas de IA generativa (como ChatGPT e Copilot), com o objetivo de aplicar conceitos de Python e explorar ferramentas emergentes.
+
+#### [Conversor de Moeda - GUI com customTkinter](https://github.com/Alan-oliveir/conversor-moeda-py)  
+**Descrição:** Aplicação desktop em Python com interface gráfica (customTkinter) para conversão de moedas. Desenvolvido como parte do Programa Match! com auxílio de IA generativa.  
+**Tecnologias:** Python, customTkinter  
+**Extras:** [Screenshot](https://github.com/Alan-oliveir/conversor-moeda-py/blob/master/Screenshot/screenshot_conversor.png)  
+**Tags:** `#python` `#gui` `#ia` `#chatgpt` `#copilot`  
+**Status:** Concluído  
+**Tipo:** Projeto de curso (Match!)  
+
+#### [Conversor de Moeda - Web com Flask](https://github.com/Alan-oliveir/conversor-moeda-flask)  
+**Descrição:** Aplicação web simples para conversão de moedas, usando Flask. Desenvolvido com suporte de IA generativa como projeto final do Programa Match!  
+**Tecnologias:** Python, Flask  
+**Extras:** Conversor com variáveis de ambiente (.env) e requisições para APIs externas.  
+**Tags:** `#python` `#flask` `#webapp` `#ia` `#chatgpt` `#copilot`  
+**Status:** Concluído  
+**Tipo:** Projeto de curso (Match!)  
 
 ### Experimentos e Desafios
 
@@ -417,14 +541,25 @@ Repositórios menores com foco em testar bibliotecas, resolver desafios ou estud
 
 ---  
 
-### Tutoriais e Estudos de Caso
+### Tutoriais e Estudos de Caso  
 
-#### [Nome do Projeto](link_para_o_repo)
-**Descrição:**   
-**Tecnologias:**   
-**Tags:** `#algorithms` `#study`  
-**Status:**     
-**Tipo:**  
+#### HTML / CSS / JavaScript  
+
+#### [Playlist MID Music](https://github.com/Alan-oliveir/Playlist_MID_Music)  
+**Descrição:** Projeto de uma playlist de músicas inspirada no Spotify, que reproduz arquivos locais armazenados na pasta `songs`. Desenvolvido com HTML, CSS e JavaScript para praticar manipulação de DOM, controle de áudio e criação de interfaces interativas.  
+**Tecnologias:** HTML, CSS, JavaScript  
+**Extras:** [Deploy](https://alan-oliveir.github.io/Playlist_MID_Music), [Screenshot](https://github.com/Alan-oliveir/Playlist_MID_Music/blob/main/Screenshot/playlist.jpg)  
+**Tags:** `#javascript` `#audio` `#html` `#css` `#interface`  
+**Status:** Concluído  
+**Tipo:** Projeto de curso (reprodutor de áudio em JavaScript)  
+
+#### [Pokemon List](https://github.com/Alan-oliveir/Pokemon_List)  
+**Descrição:** Página web interativa que exibe informações sobre Pokémons. Projeto criado durante a “Semana do Zero ao Programador Contratado” promovida pelo canal Dev em Dobro.  
+**Tecnologias:** HTML, CSS, JavaScript  
+**Extras:** [Deploy](https://alan-oliveir.github.io/Pokemon_List/), [Screenshot](https://github.com/Alan-oliveir/Pokemon_List/blob/main/src/images/img-pokemon-list.png)  
+**Tags:** `#html` `#css` `#javascript` `#pokémon` `#devemdobro`  
+**Status:** Concluído  
+**Tipo:** Projeto de curso (evento Dev em Dobro)  
 
 ---
 
