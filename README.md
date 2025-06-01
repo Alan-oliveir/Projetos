@@ -91,7 +91,7 @@ Alguns projetos poderiam se encaixar em múltiplas categorias, mas foram classif
 
 ## Projetos Autorais
 
-#### 🔥 [Playnite Enhanced Grid View Extend Theme](https://github.com/Alan-oliveir/Playnite_Enhanced_Grid_View_Extend_Theme) 🔵
+#### 🔥 [Playnite Enhanced Grid View Extend Theme](https://github.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme) 🔵
 **Descrição:** Tema personalizado para o launcher de jogos Playnite, com design moderno e foco em visualização em grade. O tema integra diversas extensões da comunidade para expandir funcionalidades, como exibição de conquistas, estatísticas, trailers, capturas de tela, notícias e personalização avançada.  
 **Tecnologias:** ![XAML](https://img.shields.io/badge/-XAML-0078D7?style=flat-square) ![Playnite](https://img.shields.io/badge/-Playnite-9966CC?style=flat-square) ![UX](https://img.shields.io/badge/-UX-FF4088?style=flat-square)  
 **Extras:** Compatível com ThemeModifier para personalização visual, disponível via Releases ou navegador de addons do Playnite  
@@ -357,7 +357,7 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 
 ---
 
-#### 🎓 [Aulas Práticas - Computação II](https://github.com/Alan-oliveir/Computacao_II_Aulas) ⚪
+#### 🎓 [Aulas Práticas - Computação II](https://github.com/Alan-oliveir/aulas_comp_2) ⚪
 **Descrição:** Repositório com atividades e exercícios práticos desenvolvidos na disciplina de Computação II.  
 **Tecnologias:** C  
 **Extras:** —  
@@ -369,7 +369,7 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 
 ### Formações Online
 
-#### 📚 [Trilha Dev. Full Stack Jr. - +praTi & Codifica (2025)](https://github.com/Alan-oliveir/trilha-dev-fullstack-prati-codifica) 🔴
+#### 📚 [Trilha Dev. Full Stack Jr. - +praTi & Codifica (2025)](https://github.com/Alan-oliveir/curso_prati_full_stack) 🔴
 **Descrição:** Repositório completo contendo os exercícios, atividades e projetos desenvolvidos durante o curso Full Stack Jr. promovido pela +praTi e Codifica. A formação abrange desde algoritmos e estrutura de dados até desenvolvimento full stack com React, Spring Boot e Python, além de tópicos em DevOps e IA.  
 **Tecnologias:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  
 **Extras:** Organização modular dos conteúdos e projetos, com README específico em cada pasta  
@@ -379,7 +379,7 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 
 ---
 
-#### 📚 [Formação DevOps - Ada Tech & iFood Vem Ser Tech](https://github.com/Alan-oliveir/formacao-devops-ada-ifood) 🔵  
+#### 📚 [Formação DevOps - Ada Tech & iFood Vem Ser Tech](https://github.com/Alan-oliveir/curso_ada_tech_devops) 🔵  
 **Descrição:** Repositório com os exercícios, atividades e projetos realizados durante a Formação DevOps do programa Vem Ser Tech, promovida pela Ada Tech em parceria com o iFood. A formação incluiu fundamentos de Linux, redes, Git, containerização com Docker, e infraestrutura como código na AWS com CloudFormation e CI/CD.  
 **Tecnologias:** ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![YAML](https://img.shields.io/badge/-YAML-0A0A0A?style=flat-square&logo=yaml&logoColor=white)  
 **Extras:** Estrutura organizada por módulos e tópicos abordados  
@@ -431,7 +431,7 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 
 ### Java / Spring Boot
 
-#### 📚 [Pass.in](https://github.com/Alan-oliveir/pass.in) 🔵  
+#### 📚 [Pass.in](https://github.com/Alan-oliveir/pass-in) 🔵  
 **Descrição:** Sistema para gestão de eventos presenciais com cadastro de participantes, emissão de credenciais e check-in com QR code. Desenvolvido durante o evento NLW Unite (trilha Java) da Rocketseat.  
 **Tecnologias:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring Framework](https://img.shields.io/badge/-Spring%20Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)  
 **Extras:** [Screenshot](https://github.com/Alan-oliveir/pass.in/blob/main/images/pass-in_img.png)  
@@ -611,7 +611,7 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 
 ---
 
-#### 📚 [Imersão IA - Alura & Google](https://github.com/Alan-oliveir/imersao-ia-gemini) 🔵
+#### 📚 [Imersão IA - Alura & Google](https://github.com/Alan-oliveir/Imersao_IA-Alura-Google) 🔵
 **Descrição:** Registro da participação na Imersão IA promovida pela Alura em parceria com o Google. Durante o evento, foram exploradas aplicações da IA generativa no Google AI Studio, com destaque para o uso prático da Gemini API e criação de projetos com prompts inteligentes.  
 **Tecnologias:** ![Google Gemini](https://img.shields.io/badge/-Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white) ![IA Generativa](https://img.shields.io/badge/-IA_Generativa-000000?style=flat-square) ![Google AI Studio](https://img.shields.io/badge/-Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white)  
 **Extras:** [Sobre o Gemini](https://blog.google/intl/pt-br/novidades/tecnologia/apresentando-o-gemini-nosso-maior-e-mais-habil-modelo-de-ia/), [Exemplos de Prompt](https://ai.google.dev/examples?hl=pt-br)  
@@ -697,7 +697,7 @@ Projetos simples desenvolvidos com auxílio de ferramentas de IA generativa (com
 
 ## Repositórios Agregadores (Hubs de Cursos)
 
-#### 🚀 [NLW Expert 2024 — Rocketseat (Hub)](https://github.com/Alan-oliveir/nlw-expert-2024-hub) 🔵
+#### 🚀 [NLW Expert 2024 — Rocketseat (Hub)](https://github.com/Alan-oliveir/nlw-expert-2024) 🔵
 **Descrição:** Repositório central dos projetos desenvolvidos durante o evento NLW Expert 2024 da Rocketseat. A edição abordou quatro trilhas: React, React Native, Node.js e Python. Cada projeto foca em uma aplicação prática com tecnologias modernas como WebSockets, API de voz, Fastify, PostgreSQL e mais.  
 **Tecnologias:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)  
 **Extras:** Links para os projetos individuais no README  
@@ -707,7 +707,7 @@ Projetos simples desenvolvidos com auxílio de ferramentas de IA generativa (com
 
 ---
 
-#### 📚 [Bootcamp Potência Tech iFood — Desenvolvimento de Jogos (DIO)](https://github.com/Alan-oliveir/bootcamp-dio-jogos-hub) 🔵
+#### 📚 [Bootcamp Potência Tech iFood — Desenvolvimento de Jogos (DIO)](https://github.com/Alan-oliveir/potencia-tech-ifood-jogos) 🔵
 **Descrição:** Repositório central com os projetos desenvolvidos durante o Bootcamp Potência Tech iFood - Desenvolvimento de Jogos, promovido pela DIO. Inclui jogos web simples desenvolvidos com HTML5, CSS3 e JavaScript, com foco em lógica, manipulação de DOM e interatividade.  
 **Tecnologias:** ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 **Extras:** Links para todos os jogos: Jogo da Memória, Simulador de Piano, Pokédex, Yu-Gi-Oh! Jokenpô e Detona Ralph  
@@ -717,7 +717,7 @@ Projetos simples desenvolvidos com auxílio de ferramentas de IA generativa (com
 
 ---
 
-#### 📚 [Qualifact | Projetos de Cursos Intensivos em TICs](https://github.com/Alan-oliveir/qualifact_tics_hub) 🔵
+#### 📚 [Qualifact | Projetos de Cursos Intensivos em TICs](https://github.com/Alan-oliveir/qualifact-cursos) 🔵
 **Descrição:** Repositório central que reúne os projetos desenvolvidos durante os cursos intensivos promovidos pela Qualifact, com foco em aplicações práticas de visão computacional, automação de processos e anonimização de dados.  
 **Tecnologias:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyAutoGUI](https://img.shields.io/badge/-PyAutoGUI-3776AB?style=flat-square&logo=python&logoColor=white)  
 **Extras:** Links para cada projeto individual no README  
