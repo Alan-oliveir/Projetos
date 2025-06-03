@@ -357,6 +357,16 @@ Projetos desenvolvidos durante disciplinas ou treinamentos.
 
 ---
 
+#### 🎓 [Trabalhos - Introdução ao Aprendizado de Máquina](https://github.com/Alan-oliveir/EEL891_Machine_Learning) 🔵
+**Descrição:** Repositório com atividades e exercícios práticos desenvolvidos na disciplina de Computação II.  
+**Tecnologias:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)   
+**Extras:** —  
+**Tags:** `#python` `#machine-learning` `#faculdade`  
+**Status:** Concluído  
+**Tipo:** Projeto acadêmico (disciplina universitária)
+
+---
+
 #### 🎓 [Aulas Práticas - Computação II](https://github.com/Alan-oliveir/aulas_comp_2) ⚪
 **Descrição:** Repositório com atividades e exercícios práticos desenvolvidos na disciplina de Computação II.  
 **Tecnologias:** C  
